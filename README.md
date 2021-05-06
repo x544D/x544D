@@ -11,5 +11,4 @@
 
 - 💞️ I’m Also looking to collaborate on any interesting Projects to expand my knowledge.
 - 📫 You can reach me through email ( professional purpose only ) : amrani.saad@aol.com
-- 😎 Check more about me here : [p\544D](https://x544d.github.io){:target="_blank"}
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+- 😎 Check more about me here : <a href="https://x544d.github.io" target="_blank">[ p\544D ]</a>
