@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 I’m @x544D , a Moroccan Software Developer and a Cyber security Enthusiast, currently living and working in Tunisia.
-- 🌱 I’m currently Working as a Mobile dev @MEZCALMOS inc.
+- 🌱 I’m currently Working as a Mobile dev @Mezcalmos inc.
 - 🔭 In another side I’m also working on :
 
     - #### My Puxy Anti-cheat (Client-Server) which will put an end to games Cheating/Hacking!
